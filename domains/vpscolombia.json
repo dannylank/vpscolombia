@@ -1,0 +1,13 @@
+{
+  "description": "vpscolombia dev",
+  "owner": {
+    "username": "dannylank",
+    "email": "danny.rivera.s@gmail.com"
+  },
+  "record": {
+    "A": "ns1.vpscolombia.co."
+  },
+   "record": {
+    "A": "ns2.vpscolombia.co."
+  }
+}
