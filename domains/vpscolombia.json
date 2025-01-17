@@ -5,9 +5,11 @@
     "email": "danny.rivera.s@gmail.com"
   },
   "record": {
-    "A": "ns1.vpscolombia.co."
-  },
-   "record": {
-    "A": "ns2.vpscolombia.co."
+    "A": [
+      "ns1.vpscolombia.co.",
+      "ns2.vpscolombia.co."
+    ],
+    "MX": "mail.vpscolombia.co.",
+    "TXT": ["v=spf1 +a +mx +ip4:162.240.168.90 ~all"]
   }
 }
